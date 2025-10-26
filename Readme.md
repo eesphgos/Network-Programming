@@ -1,8 +1,8 @@
-there is some code that i write witn gpt to learn Network programming
+there is some code that i write witn gpt to learn Network programming 
 
 at day 1:   2025/26/10
 
-1-i write acode to connect a server to a client
+1-i write acode to connect a server to a client with python
 
 2-server changed to multi server(can connect with many client)
 
