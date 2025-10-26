@@ -12,3 +12,4 @@ at day 1:   2025/26/10
 
 5-at the end the server changet to log-server to save all msg(msg,time,author,...)(log-server-client)
 
+-----------------
