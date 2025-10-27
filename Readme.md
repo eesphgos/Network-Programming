@@ -14,4 +14,12 @@ at day 1:   2025/26/10
 
 5-at the end the server changet to log-server to save all msg(msg,time,author,...)(log-server-client)
 
------------------
+--------
+
+at day 2:   2025/27/10
+
+1-i add qraphic UI with "tkinter" library to the client(qui-server-client)
+
+2-the log send to all so client that connect to server like social media(sendlog-server-client)
+
+--------
